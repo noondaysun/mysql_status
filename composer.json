@@ -2,9 +2,8 @@
 	"minimum-stability":"dev",
 	"name":"bwt/mysql_status",
 	"require": {
-		"catfan/Medoo": "^1.0",
+		"doctrine/dbal": "v2.5.5",
         "php": "~5.4 || ^7.0",
-        "twbs/bootstrap": "4.*",
         "twig/twig": "~1.0"
     },
     "require-dev": {
